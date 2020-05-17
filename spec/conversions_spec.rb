@@ -10,5 +10,6 @@ describe "conversions" do
       grams = ounces_to_grams(1)
       expect(grams).to eq(28.3495)
     end
+    end
   end
 end
