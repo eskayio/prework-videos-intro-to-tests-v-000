@@ -1,6 +1,6 @@
 require_relative '../conversions.rb'
 
-puts "tests are running"
+puts "tests are running..."
 
 describe "conversions" do
   describe '#ounces_to_grams' do
@@ -10,3 +10,5 @@ describe "conversions" do
     end
   end
 end
+
+puts "tests completed. see above for results!"
